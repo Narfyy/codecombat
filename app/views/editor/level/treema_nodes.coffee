@@ -5,6 +5,7 @@ CocoCollection = require 'collections/CocoCollection'
 require 'lib/setupTreema'
 require('vendor/scripts/jquery-ui-1.11.1.custom')
 require('vendor/styles/jquery-ui-1.11.1.custom.css')
+utils = require('core/utils')
 
 makeButton = -> $('<a class="btn btn-primary btn-xs treema-map-button"><span class="glyphicon glyphicon-screenshot"></span></a>')
 shorten = (f) -> parseFloat(f.toFixed(1))
@@ -302,6 +303,15 @@ module.exports.ItemThangTypeNode = ItemThangTypeNode = class ItemThangTypeNode e
   processThangType: (thangType) ->
     return unless itemComponent = _.find thangType.get('components'), {original: LevelComponent.ItemID}
     @constructor.thangTypes.push name: thangType.get('name'), original: thangType.get('original'), slots: itemComponent.config?.slots ? ['right-hand']
+
+module.exports.StateNode = StateNode = class SateNode extends TreemaNode.nodeMap.string
+  buildValueForDisplay: (valEl, data) ->
+    super valEl, data
+    return unless data
+    return console.error "Couldn't find state #{@data}" unless state = utils.usStateCodes.getStateNameByStateCode @data
+
+    stateElement = -> $("<span> - <i>#{state}</i></span>")
+    valEl.find('.treema-shortened').append(stateElement())
 
 module.exports.conceptNodes = (concepts) -> 
   class ConceptNode extends TreemaNode.nodeMap.string
