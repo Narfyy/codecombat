@@ -1,93 +1,94 @@
 module.exports = nativeDescription: "Português (Brasil)", englishDescription: "Portuguese (Brazil)", translation:
 
 #  ozaria_home:
-#    subtitle: "Computer Science that Captivates"
-#    heading_subtitle: "A coding adventure for students and your turnkey solution for teaching Computer Science."
-#    item_list_p: "Try Chapter 1 for Free Today!"
-#    engaging_heading_corner: "A solution to Engage Students and Support Teachers"
-#    engaging_row1_h2: "Easy Implementation"
-#    engaging_row1_p: "Even with no coding experience, you can teach a full Computer Science curriculum with Ozaria. Our ready-to-go lesson plans and intuitive dashboard will provide you with the tools you need to be ready to teach on day one."
-#    engaging_row2_h2: "Immersive Gameplay"
-#    engaging_row2_p: "Students are immersed in an adventure game in which their knowledge of Computer Science advances with the storyline. In this engaging learning environment, students build real-world skills through the power of play."
-#    engaging_row3_h2: "Standards-Aligned Curriculum"
-#    engaging_row3_p: "Ozaria meets CSTA and ISTE standards, enabling you to teach with confidence as your students master core Computer Science concepts, develop computational thinking skills, and learn about the relevance of Computer Science to their daily lives."
-#    pd_blurb: "Learn the skills to effectively teach computer science with our self-directed, CSTA-accredited __pd__ course. Earn up to 40 credit hours any time, from any device."
-#    back_cta_1_a: "Try Chapter 1 for Free"
-#    speech_bubble_testimonial_1_blockquote: "Once again, your team has managed to accomplish the Holy Grail of Edutainment. In my opinion as a 26-year veteran Middle School educator, there is no more engaging resource for teaching coding."
-#    core_curriculum_header: "Core Computer Science Curriculum"
-#    core_curriculum_p: "We have developed our instructional model based on proven theories and extensive evidence around how students learn best."
-#    core_curriculum_carousel_item1_header: "Make Connections"
-#    core_curriculum_carousel_item1_p: "At the start of every module, use our turnkey lesson slides to help your students make the connection between new Computer Science concepts and relevant examples from their daily lives."
-#    core_curriculum_carousel_item2_header: "Construct Own Meaning"
-#    core_curriculum_carousel_item2_p: "Next, guide your students in constructing a deeper understanding of new concepts through unplugged and discussion activities that are built into our lesson plans."
-#    core_curriculum_carousel_item3_header: "Learn New Concepts"
-#    core_curriculum_carousel_item3_p: "In the third stage of the learning cycle, your students will learn new concepts through expositional dialogue between characters in the Ozaria story. Voice-over, graphics, and animations make absorbing new information even more accessible and fun."
-#    core_curriculum_carousel_item4_header: "Apply New Knowledge"
-#    core_curriculum_carousel_item4_p: "Next, your students will put what they learned into practice by typing real Python or JavaScript to solve a variety of challenges in scaffolded game levels. Built-in hints help students identify and fix bugs, leading to greater coding confidence."
-#    core_curriculum_carousel_item5_header: "Summative Project"
-#    core_curriculum_carousel_item5_p: "At the end of each chapter, your students will be challenged to showcase their new skills and express their creativity through summative projects in which they build their own games, stories, and more."
-#    core_curriculum_scope_sequence: "View Scope & Sequence"
-#    core_curriculum_sample_lesson_slides: "View Sample Lesson Slides"
-#    global_community_header: "Join Our Global Community"
-#    global_community_row1_p: "Learners"
-#    global_community_row2_p: "Lines of Code"
-#    global_community_row3_p: "Teachers"
-#    global_community_row4_p: "Countries"
-#    admin_dashboard_header: "Comprehensive Teacher & Admin Dashboards"
-#    admin_dashboard_p: "Designed with feedback from our community of over 140,000 educators, Ozaria addresses the challenges of teaching Computer Science by providing tools and resources that work."
-#    admin_dashboard_row1_p: "The intuitive Teacher Dashboard provides access to student-facing lesson plans, pacing guides, distance learning strategies, and other resources to support your needs."
-#    admin_dashboard_row2_p: "The Track Progress page allows you to monitor student progress on an ongoing basis, get valuable information on their performance, and immediately identify whether interventions are needed."
-#    admin_dashboard_row3_a: "Request a Quote"
-#    acodus_awards_a: "Try Chapter 1 for Free"
-#    speech_bubble_testimonial_2_blockquote: "It’s the most accessible programming site I’ve seen as of yet. I appreciate the story that goes with Ozaria, as it aligns with a mission my students can empathize with. Frankly, I love it. In fact, I found myself playing for far longer than I wish to admit last weekend!"
-#    shareable_resources_header: "Shareable Resources"
-#    shareable_resources_p: "Share the resources below with teachers, administrators, and others involved in bringing Computer Science to your school or expanding offerings already in place."
-#    shareable_resources_a: "Download Flyer"
-#    back_cta_2_a: "Try Chapter 1 for Free"
-#    faq_header: "Frequently Asked Questions"
-#    faq_row1_header: "How is Ozaria related to CodeCombat?"
-#    faq_row1_p: "Ozaria is the classroom-centered evolution of CodeCombat, one of the most popular coding games in history. We built Ozaria based off the insights gained from teaching over 20 million learners Python and JavaScript. Ozaria incorporates new pedagogical models, an immersive story-driven narrative, and was designed to be implemented in classrooms, for both in-person and remote learning settings."
-#    faq_row2_header: "What ages or grades are appropriate for Ozaria?"
-#    faq_row2_p: "Ozaria is aligned to the CSTA and ISTE middle school CS standards, but has been practiced and enjoyed by students ranging from upper elementary through high school."
-#    faq_row3_header: "How much does it cost to access all of the available units and resources?"
-#    faq_row3_p_part1: "We customize solutions for schools and districts and work with you to understand your use case, context, and budget. "
-#    faq_row3_p_part2: " for further details! We also provide a "
-#    faq_row3_p_part3: "funding resources guide"
-#    faq_row3_p_part4: " for school and district CS programs."
-#    faq_row4_header: "Does Ozaria have project-based learning?"
-#    faq_row4_p: "Yes. Ozaria incorporates shareable Capstone Projects at the end of each Chapter, where students create their own games. These projects serve as summative assessments and are great ways for students to express themselves and demonstrate their learnings to classmates, friends, and family."
-#    faq_row5_header: "Can I use Ozaria as my class’s main curriculum?"
-#    faq_row5_p: "Absolutely! Ozaria has everything you need to run a full Computer Science class, even if you don't have a Computer Science background. From lesson plans and solution guides to project rubrics and built-in standards alignment, it's all here."
-#    faq_row6_p_part1: "If you have any other questions, please "
-#    see_faq_prefix: "See more"
-#    see_faq_link: "frequently asked questions in our help center"
-#    see_faq_suffix: "."
-#    summary: "Ozaria is a computer science program, an adventure game, and a fantasy story where students master the lost magic of coding to save their world."
-#    value_prop1_h1: "Epic Story. Immersive Gameplay."
-#    value_prop1_h2: "Inspire a deeper connection to learning"
-#    value_prop1_p: "In Ozaria, students find themselves embedded in a new world where they master core computer science concepts to progress within the game. The unfolding narrative creates a powerful student-centered learning experience, with each student’s investment in Ozaria’s story paralleling the investment they are making in their own learning journey."
-#    value_prop2_h1: "Discover the Hero within Every Student"
-#    value_prop2_h2: "Build real skills through play"
-#    value_prop2_p: "Concepts and skills are introduced via a thoughtfully-designed content progression that includes game levels, instructional character dialogue, cutscenes, and more. Students learn to type Python or JavaScript, problem-solve using computational thinking, demonstrate understanding through formative assessments, and apply what they learn by making their own projects."
-#    value_prop3_h1: "Start Your Journey For Free"
-#    value_prop3_p: "Teach through adventure with free content covering introductory computer science concepts, plus access to implementation guides and lesson plans."
-#    projects_inspire_heading: "Projects that Inspire. Resources that Empower."
-#    student_creativity: "Unleash Student Creativity"
-#    student_creativity_paragraph: "At the end of each unit, students apply what they've learned by creating projects, from games to choose-your-own adventure stories and more. Built with scaffolded goals, yet allowing for limitless ideation, students build a shareable and playable portfolio of work that showcases their creative identity."
-#    teach_with_support: "Teach with Support"
-#    teach_with_support_paragraph: "Ozaria is built for educators. Each unit throughout the curriculum has a lesson plan that outlines learning objectives, common student misconceptions, key terms, and CSTA standards. In addition, a comprehensive teacher dashboard helps teachers to track student progress and check student code."
-#    request_demo: "Request a Demo"
-#    im_an_educator: "I'm an Educator"
-#    im_a_student: "I'm a Student"
-#    global_title: "Join Our Global Community of Learners and Educators"
-#    global_subtitle1: "Learners"
-#    global_subtitle2: "Lines of Code"
-#    global_subtitle3: "Teachers"
-#    global_subtitle4: "Countries"
-#    sign_up: "Sign Up"
-#    individual_account_warning: "You are logged in as __name__, which is an individual account. Ozaria is for teacher and student accounts only; do you need to update your account?"
-#    learner_number: "12 Million"
-#    code_line_number: "1 Billion"
+#    subtitle: "Ciência da Computação que Cativa" # {change}
+#    heading_subtitle: "Uma aventura de codificação para estudantes e sua solução pronta para o ensino de Ciência da Computação." # {change}
+#    item_list_p: "Experimente o Capítulo 1 Gratuitamente hoje!" # {change}
+#    engaging_heading_corner: "Uma solução para envolver os alunos e apoiar os professores" # {change}
+#    engaging_row1_h2: "Implementação fácil" # {change}
+#    engaging_row1_p: "Mesmo sem experiência em codificação, você pode ensinar um currículo completo de Ciência da Computação com Ozaria. Nossos planos de aula prontos para uso e painel intuitivo fornecerão as ferramentas de que você precisa para estar pronto para ensinar no primeiro dia." # {change}
+#    engaging_row2_h2: "Jogabilidade imersiva" # {change}
+#    engaging_row2_p: "Os alunos estão imersos em um jogo de aventura em que seus conhecimentos de Ciência da Computação avançam com o enredo. Neste ambiente de aprendizado envolvente, os alunos desenvolvem habilidades do mundo real por meio do poder do jogo." # {change}
+#    engaging_row3_h2: "Currículo Alinhado aos Padrões" # {change}
+#    engaging_row3_p: "O Ozaria atende aos padrões CSTA e ISTE, permitindo que você ensine com confiança enquanto seus alunos dominam os principais conceitos da Ciência da Computação, desenvolvem habilidades de pensamento computacional e aprendem sobre a relevância da Ciência da Computação para suas vidas diárias." # {change}
+#    pd_blurb: "Aprenda as habilidades para ensinar ciência da computação com eficácia com nosso curso __pd__ autodirigido e credenciado pelo CSTA. Ganhe até 40 horas de crédito a qualquer momento, em qualquer dispositivo." # {change}
+#    back_cta_1_a: "Experimente o Cápitulo 1 Gratuitamente" # {change}
+#    speech_bubble_testimonial_1_blockquote: "Mais uma vez, sua equipe conseguiu alcançar o Santo Graal do Edu Entretenimento. Na minha opinião, como um educador veterano de ensino médio de 26 anos, não há recurso mais envolvente para o ensino de codificação." # {change}
+#    core_curriculum_header: "Currículo Básico de Ciência da Computação" # {change}
+#    core_curriculum_p: "Desenvolvemos nosso modelo instrucional com base em teorias comprovadas e amplas evidências sobre como os alunos aprendem melhor." # {change}
+#    core_curriculum_carousel_item1_header: "Faça Conexões" # {change}
+#    core_curriculum_carousel_item1_p: "No início de cada módulo, use nossos slides de lição prontos para ajudar seus alunos a fazer a conexão entre os novos conceitos de Ciência da Computação e exemplos relevantes de suas vidas diárias." # {change}
+#    core_curriculum_carousel_item2_header: "Construa seu próprio significado" # {change}
+#    core_curriculum_carousel_item2_p: "Em seguida, oriente seus alunos na construção de uma compreensão mais profunda de novos conceitos por meio de atividades desconectadas e de discussão incorporadas aos nossos planos de aula." # {change}
+#    core_curriculum_carousel_item3_header: "Aprenda Novos Conceitos" # {change}
+#    core_curriculum_carousel_item3_p: "Na terceira etapa do ciclo de aprendizado, seus alunos aprenderão novos conceitos por meio do diálogo expositivo entre os personagens da história de Ozaria. Locução, gráficos e animações tornam a absorção de novas informações ainda mais acessível e divertida." # {change}
+#    core_curriculum_carousel_item4_header: "Aplicar novos conhecimentos" # {change}
+#    core_curriculum_carousel_item4_p: "Em seguida, seus alunos colocarão em prática o que aprenderam digitando Python ou JavaScript real para resolver uma variedade de desafios em níveis de jogo com andaimes. As dicas integradas ajudam os alunos a identificar e corrigir bugs, levando a uma maior confiança na codificação." # {change}
+#    core_curriculum_carousel_item5_header: "Projeto somativo" # {change}
+#    core_curriculum_carousel_item5_p: "No final de cada capítulo, seus alunos serão desafiados a mostrar suas novas habilidades e expressar sua criatividade por meio de projetos somativos nos quais constroem seus próprios jogos, histórias e muito mais." # {change}
+#    core_curriculum_scope_sequence: "Exibir alcance e sequência" # {change}
+#    core_curriculum_sample_lesson_slides: "Ver slides da aula de amostra" # {change}
+#    global_community_header: "Junte-se à nossa comunidade global" # {change}
+#    global_community_row1_p: "Aprendizes" # {change}
+#    global_community_row2_p: "Linhas de Código" # {change}
+#    global_community_row3_p: "Professores" # {change}
+#    global_community_row4_p: "Países" # {change}
+#    admin_dashboard_header: "Professores Abrangentes & Painéis de Administração"
+#    admin_dashboard_p: "Projetado com feedback de nossa comunidade de mais de 140.000 educadores, Ozaria aborda os desafios do ensino de Ciência da Computação fornecendo ferramentas e recursos que funcionam." # {change}
+#    admin_dashboard_row1_p: "O painel intuitivo do professor fornece acesso a planos de aula voltados para o aluno, guias de ritmo, estratégias de ensino à distância e outros recursos para atender às suas necessidades.” # {change}
+#    admin_dashboard_row2_p: "A página Acompanhar o progresso permite que você monitore o progresso do aluno continuamente, obtenha informações valiosas sobre seu desempenho e identifique imediatamente se as intervenções são necessárias."  # {change}
+#    admin_dashboard_row3_a: "Solicite um orçamento" # {change}
+#    acodus_awards_a: "Experimente o Capítulo 1 Gratuitamente!" # {change}
+#    speech_bubble_testimonial_2_blockquote: "É o site de programação mais acessível que já vi. Agradeço a história que acompanha Ozaria, pois ela se alinha com uma missão com a qual meus alunos podem simpatizar. Francamente, eu adoro isso. Na verdade, eu me peguei jogando por muito mais tempo do que gostaria de admitir no fim de semana passado!" # {change}
+#    shareable_resources_header: "Recursos compartilháveis" # {change}
+#    shareable_resources_p: "Compartilhe os recursos abaixo com professores, administradores e outras pessoas envolvidas em levar a Ciência da Computação para sua escola ou expandir as ofertas já existentes." # {change}
+#    shareable_resources_a: "Baixar Folheto" # {change}
+#    back_cta_2_a: "Experimente o Capítulo 1 Gratuitamente” # {change}
+#    faq_header: "Perguntas Frequentes" # {change}
+#    faq_row1_header: "Como Ozaria está relacionado ao CodeCombat?" # {change}
+#    faq_row1_p: "Ozaria é a evolução centrada na sala de aula do CodeCombat, um dos jogos de codificação mais populares da história. Construímos o Ozaria com base nos insights obtidos ao ensinar Python e JavaScript a mais de 20 milhões de alunos. Ozaria incorpora novos modelos pedagógicos, uma narrativa imersiva baseada em histórias, e foi pensado para ser implementado em salas de aula, para configurações de aprendizado presencial e remoto." # {change}
+#    faq_row2_header: "Quais idades ou séries são apropriadas para Ozaria?" # {change}
+#    faq_row2_p: "O Ozaria está alinhado com os padrões de CS do ensino médio CSTA e ISTE, mas tem sido praticado e apreciado por alunos desde o ensino fundamental até o ensino médio." # {change}
+#    faq_row3_header: "Quanto custa acessar todas as unidades e recursos disponíveis?" # {change}
+#    faq_row3_p_part1: "Personalizamos soluções para escolas e distritos e trabalhamos com você para entender seu caso de uso, contexto e orçamento. " # {change}
+#    faq_row3_p_part2: "para mais detalhes! Nós também fornecemos um " # {change}
+#    faq_row3_p_part3: "guia de recursos de financiamento" # {change}
+#    faq_row3_p_part4: "para programas escolares e distritais de CS." # {change}
+#    faq_row4_header: "A Ozaria tem projetos baseada em aprendizagem?" # {change}
+#    faq_row4_p: "Sim. Ozaria incorpora Projetos Capstone compartilháveis ​​no final de cada capítulo, onde os alunos criam seus próprios jogos. Esses projetos servem como avaliações somativas e são ótimas maneiras de os alunos se expressarem e demonstrarem seu aprendizado para colegas, amigos e familiares." # {change}
+#    faq_row5_header: "Posso usar Ozaria como currículo principal da minha turma?" # {change}
+#    faq_row5_p: "Absolutamente! O Ozaria tem tudo o que você precisa para ministrar uma aula completa de Ciência da Computação, mesmo que você não tenha formação em Ciência da Computação. De planos de aula e guias de solução a rubricas de projeto e alinhamento de padrões integrados, está tudo aqui." # {change}
+#    faq_row6_p_part1: "Se você tiver quaisquer outras perguntas, por favor " # {change}
+#    see_faq_prefix: "Ver mais" # {change}
+#    see_faq_link: "perguntas frequentes em nosso centro de ajuda" # {change}
+#    see_faq_suffix: "." 
+#    summary: "Ozaria é um programa de ciência da computação, um jogo de aventura e uma história de fantasia onde os alunos dominam a magia perdida da codificação para salvar seu mundo." # {change}
+#    value_prop1_h1: "História épica. Jogabilidade Imersiva.” # {change}
+#    value_prop1_h2: "Inspire uma conexão mais profunda com o aprendizado" # {change}
+#    value_prop1_p: "Em Ozaria, os alunos encontram-se inseridos em um novo mundo onde dominam os principais conceitos da ciência da computação para progredir no jogo. A narrativa que se desenrola cria uma poderosa experiência de aprendizado centrada no aluno, com o investimento de cada aluno na história de Ozaria em paralelo com o investimento que estão fazendo em sua própria jornada de aprendizado." # {change}
+#    value_prop2_h1: "Descubra o herói dentro de cada aluno" # {change}
+#    value_prop2_h2: "Desenvolva habilidades reais através do jogo" # {change}
+#    value_prop2_p: "Conceitos e habilidades são introduzidos por meio de uma progressão de conteúdo cuidadosamente projetada que inclui níveis de jogo, diálogo instrutivo de personagens, cenas e muito mais. Os alunos aprendem a digitar Python ou JavaScript, resolver problemas usando pensamento computacional, demonstrar compreensão por meio de avaliações formativas, e aplicar o que aprenderam fazendo seus próprios projetos." # {change}
+#    value_prop3_h1: "Comece sua jornada gratuitamente" # {change}
+#    value_prop3_p: "Ensine através da aventura com conteúdo gratuito que abrange conceitos introdutórios de ciência da computação, além de acesso a guias de implementação e planos de aula." # {change}
+#    projects_inspire_heading: "Projetos que Inspiram. Recursos que Empoderam." # {change}
+#    student_creativity: "Libere a criatividade dos alunos" # {change}
+#    student_creativity_paragraph: "No final de cada unidade, os alunos aplicam o que aprenderam criando projetos, desde jogos até histórias de aventuras do tipo escolha sua e muito mais. Construído com objetivos definidos, mas permitindo ideias ilimitadas, os alunos constroem um portfólio de trabalho compartilhável e jogável que mostra sua identidade criativa." # {change}
+#    teach_with_support: "Ensine com Apoio" # {change}
+#    teach_with_support_paragraph: "Ozaria é construído para educadores. Cada unidade ao longo do currículo tem um plano de aula que descreve os objetivos de aprendizagem, equívocos comuns dos alunos, termos-chave e padrões CSTA. Além disso, um painel abrangente do professor ajuda os professores a acompanhar o progresso do aluno e verificar o código do aluno." # {change}
+#    request_demo: "Solicite uma Demonstração" # {change}
+#    im_an_educator: "Eu sou um Educador" # {change}
+#    im_a_student: "Eu sou um Estudante" # {change}
+#    global_title: "Junte-se à nossa comunidade global de Alunos e Educadores" # {change}
+#    global_subtitle1: "Alunos" # {change}
+#    global_subtitle2: "Linhas de Código" # {change}
+#    global_subtitle3: "Professores" # {change}
+#    global_subtitle4: "Países" # {change}
+#    sign_up: "Inscrever-se" # {change}
+#    individual_account_warning: "Você está conectado como __nome__, que é uma conta individual. Ozaria é apenas para contas de professores e alunos; você precisa atualizar sua conta?" # {change}
+#    learner_number: "12 Milhões" # {change}
+#    code_line_number: "1 Bilhão" # {change}
+
 
   new_home:
     title_coco: "CodeCombat - Codificando jogos para aprender Python e JavaScript"
